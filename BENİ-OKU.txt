@@ -1,0 +1,25 @@
+Bizi tercih Ettiğiniz için teşekkür ederiz  kurulum gayet basittir ama ondan önce bazı  küçük hatırlatmam var .
+
+Not: 
+1- Bu uygulama  online oyun sitelerine erişemez nedeni şu
+    1a.  CORS politikaları, CAPTCHA  koruması  kullanıldığı için  kodlar'a erişilmiyor .
+2- Diğer tüm sitlerin kodları ile beraber size klasör şeklinde verir
+3- Veri tabanlarına erişemez  nedeni  1. madde'de denildiği gibi koruma var.
+4- Peki ne işime yaricak derseniz   yazılım geçmişiniz veya bilginiz var ise  kodlar üzerinde oynayıp  kendinizi geliştirebilirsiniz
+5- Hadi kuruluma geçelim .
+
+
+Kurulum ; 
+
+ 1- Bilgisayarınız'da NodeJS yüklü olduğundan emin olun ( https://nodejs.org/en)
+ 2- İlk başta klasör'ü zıp'ten çıkarıp masaüstüne  ayıklıyalım ( atalım ),
+ 3- cmd (Komut Satırı) girip klasör'ün içine girelim .
+ 4- Ve şu kodu yazın  ;  npm install axios cheerio fs-extra path
+ 5- sonra sistemi başlatalım şu kod ile  ; node index.js
+ 6- sizden bir url isticek  istediğiniz url'yi  kopyalayın yapıştırın eğer komut satırnda " web site url" 'si gözükmez ise mouse ile sağ tık yapın gelir ekran'a  (Enter)'e basın çalışıacaktır.
+ 7- dosya indikten sonra indirilenler klasörün'de ayrı bir klaösr içerisinde olacaktır. 
+ 8- Bu kadar  basit   sistemi her seferinde  çalıştıracağınız zaman  aynı şekilde klasörün içine giriyorsunuz   ve (node index.js) diyip çalıştırıyorsunuz 4. madde'deki kod tek seferlik için yani ilk  kurulumda gerekli onu bir daha yazmanıza gerek yok. 
+ 9- Bizi tercih ettiğiniz için teşekkür deriz iyi günler de kullanın.
+
+
+Not : TAMAMEN EĞİTİM AMAÇLIDIR , ürün ü aldıktan sonra iade yoktur  herhangi bir sorun hata alırsanız  yazmaktan çekinmeyin  , ürünü aldıktan sonra  tüm sorumluluk size aittir. 

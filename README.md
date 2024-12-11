@@ -1,4 +1,4 @@
-Bu uygulamayı yaparken  Javascript kullandım kurulumu gayet basittir BeniOKU.txt dosyasında kurulum mevcuttur .
+Bu uygulamayı yaparken  Javascript kullandım ,  kurulumu gayet basittir BeniOKU.txt dosyasında kurulum mevcuttur .
 
 Uygulama  CORS politikaları , CAPTCHA  koruması OLMAYAN  sitelerin kodlarını alır  klasör halinde size verir .
 
